@@ -28,11 +28,7 @@ Profiles for 250 should kind of work as it's more or less a copy from my old pro
 but i've probably lost settings,make errors during  restructuration, as they are lot of change between file structure.
 I didn't test all profile yet, so use with care.
 
-Any help, advice is welcome!
-
-
-*This repository is a personal and not related with 3DOnline*
-
+Any help, advice, profiles are welcome!
 
 
 
