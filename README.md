@@ -11,6 +11,9 @@
 
 ## Installation
 Donwload [ 3DOnline.zip ]( https://raw.githubusercontent.com/belese/PrusaSlicer-magma250/master/3DOnline.zip ) and unzip it the **vendor** folder of PrusaSlicer "Data directory"
+
+3DOnline.ini must be in the root of vendor directory.
+
 Restart PrusaSlicer and 3DOnline is now available in other constructors when adding printers
 
 alpha and beta version of PrusaSlicer has different Data Directory
