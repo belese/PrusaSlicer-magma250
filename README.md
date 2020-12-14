@@ -1,5 +1,5 @@
 
-# PrusaSlicer VendorBundle for 3DOnline magma 3DPrinter
+# 3DOnline magma 3DPrinter VendorBundle for PrusaSlicer
 ## Compatibility
 ### Compatible Printer (see Warning below)
 - magma 250
@@ -11,6 +11,9 @@
 
 ## Installation
 Donwload [ 3DOnline.zip ]( https://raw.githubusercontent.com/belese/PrusaSlicer-magma250/master/3DOnline.zip ) and unzip it the **vendor** folder of PrusaSlicer "Data directory"
+
+3DOnline.ini must be in the root of vendor directory.
+
 Restart PrusaSlicer and 3DOnline is now available in other constructors when adding printers
 
 alpha and beta version of PrusaSlicer has different Data Directory
@@ -22,11 +25,10 @@ I've a 250, so profiles is now for 250,
 i've prepared section for xt and xt-350, and except 350 size, it share actually same settings as 250.
 
 Profiles for 250 should kind of work as it's more or less a copy from my old profiles, 
-but i've probably lost settings during restructuration, as they are lot of change between file structure.
+but i've probably lost settings,make errors during  restructuration, as they are lot of change between file structure.
+I didn't test all profile yet, so use with care.
 
-Made a small test before using the profile
-I'll for sure require test and tuning before validate thoe profiles. Any help, advice is welcome!
-
+Any help, advice, profiles are welcome!
 
 
 
