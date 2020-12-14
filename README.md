@@ -1,5 +1,5 @@
 
-# PrusaSlicer VendorBundle for 3DOnline magma 3DPrinter
+# 3DOnline magma 3DPrinter VendorBundle for PrusaSlicer
 ## Compatibility
 ### Compatible Printer (see Warning below)
 - magma 250
