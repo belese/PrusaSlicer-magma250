@@ -25,7 +25,8 @@ I've a 250, so profiles is now for 250,
 i've prepared section for xt and xt-350, and except 350 size, it share actually same settings as 250.
 
 Profiles for 250 should kind of work as it's more or less a copy from my old profiles, 
-but i've probably lost settings during restructuration, as they are lot of change between file structure.
+but i've probably lost settings,make errors during  restructuration, as they are lot of change between file structure.
+I didn't test all profile yet, so use with care.
 
 Made a small test before using the profile
 I'll for sure require test and tuning before validate thoe profiles. Any help, advice is welcome!
