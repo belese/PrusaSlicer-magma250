@@ -28,8 +28,7 @@ Profiles for 250 should kind of work as it's more or less a copy from my old pro
 but i've probably lost settings,make errors during  restructuration, as they are lot of change between file structure.
 I didn't test all profile yet, so use with care.
 
-Made a small test before using the profile
-I'll for sure require test and tuning before validate thoe profiles. Any help, advice is welcome!
+Any help, advice is welcome!
 
 
 
