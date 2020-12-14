@@ -11,7 +11,7 @@
 
 ## Installation
 ### As user profiles
-Download [ 3DOnline.ini ]( https://raw.githubusercontent.com/belese/PrusaSlicer-magma250/master/3DOnline.ini )
+Download [ 3DOnline.ini ]( https://raw.githubusercontent.com/belese/PrusaSlicer-magma250/master/vendor/3DOnline.ini )
 
 Import it as a config bundle
 
